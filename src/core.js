@@ -167,8 +167,7 @@
 		}
 		catch(e) {}
 		
-		return 
-		$lg.array_walk('m', obj, function(r) { 
+		return $lg.array_walk('m', obj, function(r) { 
 			return r; 
 		});
 	};

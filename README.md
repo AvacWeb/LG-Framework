@@ -10,7 +10,9 @@ $lg('div.className > [href]').click(function(){
 	$lg(this).fadeOut(); 
 })
 .append(' Click me to hide me!');
-```
+``` 
+
+***For a full version of LG-JS-Frame with all modules, use the most recent LG-full.js or LG-full.min.js above*** 
 
 
 Basics

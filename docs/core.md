@@ -1,6 +1,6 @@
 LG Core
 ===================
-The core.js file is required for LG framework to work. 
+The core.js file is required for LG to work. 
 
 Here's a list of functions for use within the LG core.js
 

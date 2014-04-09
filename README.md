@@ -1,7 +1,8 @@
-LG Framework 
+LG JS Frame
 ===============================
 
-A chainable JS library filled with useful functions (including events, animations, dom and more). It writes similar to jQuery since that is what mose are used to and is an easy format. 
+A chainable JS library filled with useful functions (including events, animations, dom and more).    
+It writes similar to jQuery since that is what most are used to and is an easy format.    
 Whats unique about it? Erm... ... er ... :P
 
 ```javascript
